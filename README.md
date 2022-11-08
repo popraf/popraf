@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **popraf/popraf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--
+
 ## Hi there 👋
 [![Kaggle Badge](https://img.shields.io/badge/-kottoz-teal?style=flat&logo=kaggle&logoColor=deepblue&link=https://www.kaggle.com/kottoz)](https://www.kaggle.com/kottoz)
 
@@ -24,13 +22,14 @@ Data analyst, open source contributor, passionate about the Data Science. Usuall
 At the bottom you can find a compilation of notebooks which I created for a data analysis, exploration of machine learning algorithms. Notebooks are separated by a categories.
 
 ### 🌱 Projects:
-- [Halisha](https://github.com/popraf/Halisha/) | Speech-to-Text Web App | Django Rest, Postgres, JavaScript React, PyTorch, Huggingface Transformer, Docker
-- [Algo-TimeSeries](https://github.com/popraf/Halisha/Algo-TimeSeries/) | Algorithmic cryptocurrency trading based on deep learning | Python, Binance API, TensorFlow
-- [Dusk](https://github.com/popraf/Halisha/Dusk/) | Text summarization API + website | FastAPI, Django Rest, Postgres, React, Tensorflow, Docker
+- [Halisha](https://github.com/popraf/Halisha/) | Speech-to-Text Web App | Django Rest, Postgres, JavaScript React, PyTorch, Huggingface Transformer, Docker | Under Construction
+- [Algo-TimeSeries](https://github.com/popraf/Halisha/Algo-TimeSeries/) | Algorithmic cryptocurrency trading based on deep learning | Python, Binance API, TensorFlow | Under Construction
+- [Dusk](https://github.com/popraf/Halisha/Dusk/) | Text summarization API + website | FastAPI, Django Rest, Postgres, React, Tensorflow, Docker | Under Construction
+<!--
 - [Notes App](https://github.com/popraf/Notes-App) | Simple Notes application | Django Rest, React
 - [JS TF Demo](https://github.com/popraf/tf_js_demo) | Localizes and identifies multiple objects in video stream on client side (react-webcam) | React, TensorflowJS
 - [Brain MRI Segmentation](https://github.com/popraf/Brain-MRI-Segmentation-Tensorflow) | Brain tumor segmentation notebook using UNet as backbone | Tensorflow, Keras, CV2
-
+-->
 ### ⚡ Technologies:
 - Python | Django | DRF | FastAPI | SKlearn | TensorFlow | pyTorch
 - JavaScript | React
@@ -61,5 +60,5 @@ At the bottom you can find a compilation of notebooks which I created for a data
 - [Feedback Prize - English Language Learning](https://www.kaggle.com/competitions/feedback-prize-english-language-learning) | Task was to assess the language proficiency of 8th-12th grade English Language Learners | 
 
 #### Recommendation Systems
-- [OTTO – Multi-Objective Recommender System](https://www.kaggle.com/competitions/otto-recommender-system) | The goal of this competition was to predict e-commerce clicks, cart additions, and orders based on previous events in user sessions | Explored various methods and techniques, e.g. tqdm
--->
+- [OTTO – Multi-Objective Recommender System](https://www.kaggle.com/competitions/otto-recommender-system) | The goal of this competition was to predict e-commerce clicks, cart additions, and orders based on previous events in user sessions | Explored various methods, techniques used in quantitative analysis
+
