@@ -25,6 +25,7 @@ At the bottom you can find a compilation of notebooks which I created for a data
 - [Halisha](https://github.com/popraf/Halisha/) | Speech-to-Text Web App | Django Rest, Postgres, JavaScript React, PyTorch, Huggingface Transformer, Docker | Under Construction
 - [Algo-TimeSeries](https://github.com/popraf/Halisha/Algo-TimeSeries/) | Algorithmic cryptocurrency trading based on deep learning | Python, Binance API, TensorFlow | Under Construction
 - [Dusk](https://github.com/popraf/Halisha/Dusk/) | Text summarization API + website | FastAPI, Django Rest, Postgres, React, Tensorflow, Docker | Under Construction
+- [Brain MRI Segmentation](https://github.com/popraf/Brain-MRI-Segmentation-Tensorflow) | Brain tumor segmentation notebook using UNet as backbone | Tensorflow, Keras, OpenCV2
 <!--
 - [Notes App](https://github.com/popraf/Notes-App) | Simple Notes application | Django Rest, React
 - [JS TF Demo](https://github.com/popraf/tf_js_demo) | Localizes and identifies multiple objects in video stream on client side (react-webcam) | React, TensorflowJS
