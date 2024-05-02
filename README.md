@@ -1,9 +1,9 @@
 ## Hi there 👋
 [![Kaggle Badge](https://img.shields.io/badge/-kottoz-teal?style=flat&logo=kaggle&logoColor=deepblue&link=https://www.kaggle.com/kottoz)](https://www.kaggle.com/kottoz)
 
-Love to learn. Passionate about the Data Science and all things crypto. Usually I try to understand how things work. 🔭
+Love to learn. Passionate about the Data Science. Usually I try to understand how things work. 🔭
 
-I am seeking an opportunity to get experience.
+I am actively seeking job opportunities.
 
 ### 🔮 Web3 Projects:
 - [XAM](https://github.com/popraf/xam) | ERC-20 Token | Solidity, Python, Web3 py
