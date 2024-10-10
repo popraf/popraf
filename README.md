@@ -23,6 +23,7 @@
 
 ### Backend Projects
 - [Thumbnails API](https://github.com/popraf/hexocean-django-recruitment-task) | Easy to manage, asynchronous images processing API built with Django REST, Redis, Celery, Postgres, Docker
+- [Library API](https://github.com/popraf/optimo) | Streamline book reservations and manage library resources efficiently | Django REST, Flask, Redis, Celery, MySQL, Docker, Swagger
 
 ### Web3 Projects
 - [Izanagi DAO](https://github.com/popraf/izanagi_dao) | DAO Smart contract and fully functional front-end | Solidity, JavaScript, Next.js
