@@ -13,7 +13,6 @@
 
 ### Data Science Projects
 - [Demand Forecasting](https://github.com/popraf/Demand-Forecasting) | Demand forecasting system for a short-term period (14 days) | XGBoost, ARIMA
-- [Vala](https://github.com/popraf/vala) | Sentiment analysis of spanist text comments | nltk, 🤗 transformers
 - [Brain MRI Segmentation](https://github.com/popraf/Brain-MRI-Segmentation-Tensorflow) | Brain tumor segmentation notebook using UNet as backbone | Tensorflow, Keras, CV2
 - [Domain Classifier](https://github.com/popraf/domain_classifier) | Classify malicious domains based on 3rd party data | XGBoost, Optuna
 
