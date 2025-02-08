@@ -12,6 +12,7 @@
 - [XAM](https://github.com/popraf/xam) | ERC-20 Token | Solidity, Python, Web3 py
 
 ### Data Science Projects
+- [Stroke Prediction](https://github.com/popraf/stroke-prediction) | Binary classification problem, achieved ~92% F1 on test set | MLFlow, MLFlow Recipes, Huggingface, Scikit Learn, Docker, Streamlit, Random Forest Classifier
 - [Demand Forecasting](https://github.com/popraf/Demand-Forecasting) | Demand forecasting system for a short-term period (14 days) | XGBoost, ARIMA
 - [Brain MRI Segmentation](https://github.com/popraf/Brain-MRI-Segmentation-Tensorflow) | Brain tumor segmentation notebook using UNet as backbone | Tensorflow, Keras, CV2
 - [Domain Classifier](https://github.com/popraf/domain_classifier) | Classify malicious domains based on 3rd party data | XGBoost, Optuna
