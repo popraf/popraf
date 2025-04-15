@@ -7,10 +7,6 @@
 - [Thumbnails API](https://github.com/popraf/hexocean-django-recruitment-task) | Easy to manage, asynchronous images processing API built with Django REST, Redis, Celery, Postgres, Docker
 - [Library API](https://github.com/popraf/optimo) | Streamline book reservations and manage library resources efficiently | Django REST, Flask, Redis, Celery, MySQL, Docker, Swagger
 
-### Web3 Projects
-- [Izanagi DAO](https://github.com/popraf/izanagi_dao) | DAO Smart contract and fully functional front-end | Solidity, JavaScript, Next.js
-- [XAM](https://github.com/popraf/xam) | ERC-20 Token | Solidity, Python, Web3 py
-
 ### Data Science Projects
 - [Stroke Prediction](https://github.com/popraf/stroke-prediction) | Binary classification problem, achieved ~92% F1 on test set | MLFlow, MLFlow Recipes, Huggingface, Scikit Learn, Docker, Streamlit, Random Forest Classifier
 - [Demand Forecasting](https://github.com/popraf/Demand-Forecasting) | Demand forecasting system for a short-term period (14 days) | XGBoost, ARIMA
