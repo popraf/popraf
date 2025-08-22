@@ -1,10 +1,21 @@
 ## Hi there, I'm Rafal 👋
+-  🔭 I’m currently working as a Machine Learning Engineer/Applied AI Engineer;
+-  👯 Looking to collaborate on AI research, novel ideas, and open-source projects;
+-  🤔 Striving to become a full-stack ML/AI/Data Science/SWE personnel;
+-  ⚡ Fun fact: Not all of the code I’ve written is showcased here on GitHub.
+
+#### Get in Touch 📬
+- 💬 Discord: **popraf**  
+- 💼 [LinkedIn](https://www.linkedin.com/in/popraf)  
+- 🐦 [Twitter / X](https://x.com/_popraf)  
+
+#### Languages and Tools
+C++/Python/SQL
+
+And more. I don't want to list all here
 
 #
-
 ### 🤖 Kaggle
-[![Kaggle Badge](https://img.shields.io/badge/-kottoz-teal?style=flat&logo=kaggle&logoColor=deepblue&link=https://www.kaggle.com/kottoz)](https://www.kaggle.com/kottoz)
-
 #### Regression Problems
 - [Tabular Playground Series - Jan 2022](https://www.kaggle.com/competitions/tabular-playground-series-jan-2022) | Placed 53/1591 | Time series tabular dataset. The task was to predict a full year worth of sales for three items at two stores located in three different countries. | Used LGBMRegressor, XGBRegressor, CatBoostRegressor ensembled
 - [G-Research Crypto Forecasting](https://www.kaggle.com/competitions/g-research-crypto-forecasting) | Forecast short term returns in 14 popular cryptocurrencies. | Experimented with a various models - XGBoost, LGBM
