@@ -1,18 +1,5 @@
 ## Hi there, I'm Rafal 👋
 
-### Fullstack Projects
-- [improved-ecomm](https://github.com/popraf/improved-ecomm) | Customized ecommerce store application built with Django REST Framework, React, Redux and Docker
-
-### Backend Projects
-- [Thumbnails API](https://github.com/popraf/hexocean-django-recruitment-task) | Easy to manage, asynchronous images processing API built with Django REST, Redis, Celery, Postgres, Docker
-- [Library API](https://github.com/popraf/optimo) | Streamline book reservations and manage library resources efficiently | Django REST, Flask, Redis, Celery, MySQL, Docker, Swagger
-
-### Data Science Projects
-- [Stroke Prediction](https://github.com/popraf/stroke-prediction) | Binary classification problem, achieved ~92% F1 on test set | MLFlow, MLFlow Recipes, Huggingface, Scikit Learn, Docker, Streamlit, Random Forest Classifier
-- [Demand Forecasting](https://github.com/popraf/Demand-Forecasting) | Demand forecasting system for a short-term period (14 days) | XGBoost, ARIMA
-- [Brain MRI Segmentation](https://github.com/popraf/Brain-MRI-Segmentation-Tensorflow) | Brain tumor segmentation notebook using UNet as backbone | Tensorflow, Keras, CV2
-- [Domain Classifier](https://github.com/popraf/domain_classifier) | Classify malicious domains based on 3rd party data | XGBoost, Optuna
-
 #
 
 ### 🤖 Kaggle
