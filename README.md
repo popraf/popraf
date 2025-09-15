@@ -7,7 +7,7 @@
 #### Get in Touch 📬
 - 💬 Discord: **popraf**  
 - 💼 [LinkedIn](https://www.linkedin.com/in/popraf)  
-- 🐦 [Twitter / X](https://x.com/_popraf)  
+<!-- 🐦 [Twitter / X](https://x.com/_popraf) --> 
 
 #### Languages and Tools
 C++/Python/SQL
